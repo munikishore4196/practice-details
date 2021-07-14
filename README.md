@@ -1,6 +1,5 @@
 # practice-details
-this is for practice
-list of tools
+this is for p
 scm-git
 build-maven
 ci/cd-jenkins
