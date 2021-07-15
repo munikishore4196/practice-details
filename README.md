@@ -1,5 +1,4 @@
 # practice-details
-this is for practice
 list of tools
 scm-git
 build-maven
