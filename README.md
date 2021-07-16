@@ -20,4 +20,3 @@ ls -la = displays the long list and hidden files
 cp f1 f2 = copies f1 to f2 file
 pwd = print working directory
 cd .. = go back from child dr to parent dr
-cd /dr name/file = to goto the particular file
